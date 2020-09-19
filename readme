@@ -1,0 +1,11 @@
+这是一个常用的CNN模型例子，训练的数据集是CIFAR10
+
+参考链接：
+1.pytorch 60分钟入门教程：https://pytorch.apachecn.org/docs/1.4/blitz/tensor_tutorial.html
+2.优化器optimizer：https://blog.csdn.net/qq_43784940/article/details/107940990
+3.优化器算法详解：https://www.cnblogs.com/guoyaohua/p/8542554.html
+4.自定义数据集加载和加载训练：https://blog.csdn.net/sinat_42239797/article/details/90641659
+5.pyTorch——训练第一个分类器要点解读：https://blog.csdn.net/qq_34037994/article/details/78625637
+6.CNN网络模型函数介绍：https://blog.csdn.net/qq_35700335/article/details/81630722
+7.CNN模型代码注释：https://www.cnblogs.com/CATHY-MU/p/7760570.html
+8.CNN模型基本结构：https://www.cnblogs.com/pinard/p/6483207.html
