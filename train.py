@@ -82,3 +82,8 @@ for epoch in range(2):  # 跑两个epoch
             running_loss = 0.0
 
 print('Finished Training')
+
+# 保存已训练得到的模型
+PATH = './cifar_net.pth'
+torch.save(net.state_dict(), PATH)
+print('Finished Saving')
